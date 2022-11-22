@@ -47,7 +47,7 @@ export default class FlashCard extends Component {
       e:'e) 540W',
       correta:'b) 18W'},
 
-      {pergunta:'5) A produção de um ou dois cultivos de exportação transformou-se em regra em 1935: cacau na Costa do Ouro, amendoim no Senegal e em Gâmbia, algodão no Sudão, café e algodão em Uganda, café e sisal na Tanzânia etc. O trabalho forçado e o abandono da produção alimentar provocaram muita desnutrição, graves surtos de fome e epidemias, em certas partes da África, no início da Era Colonial. BOAHEN, A. A. O legado do Colonialismo. Correio da Unesco, n. 7, jul. 1984 (adaptado).', 
+      {pergunta:'5) A produção de um ou dois cultivos de exportação transformou-se em regra em 1935: cacau na Costa do Ouro, amendoim no Senegal e em Gâmbia, algodão no Sudão, café e algodão em Uganda, café e sisal na Tanzânia etc. O trabalho forçado e o abandono da produção alimentar provocaram muita desnutrição, graves surtos de fome e epidemias, em certas partes da África, no início da Era Colonial. Nos termos apresentados no texto, o Neocolonialismo europeu deixou o seguinte legado para as áreas ocupadas: ', 
       a:'a) Desconcentração da estrutura fundiária.', 
       b:'b) Expropriação de direitos humanitários.', 
       c:'c) Autossuficiência do mercado interno.', 
